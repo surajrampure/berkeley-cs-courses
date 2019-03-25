@@ -2,11 +2,10 @@
 
 This page features links to several Berkeley EECS course webpages with **publicly available resources** (lectures, homeworks, projects, etc.), with the purpose of consolidating resources for non-Berkeley students (or non-EECS Berkeley students) to visit. 
 
-Links are from the most recent semester available (Spring 2019 for most courses, at the time of writing). Many courses have webcasts that are unavailable to non-Berkeley students, but in some cases, previous semesters of courses have video archives that are publicly available on YouTube. These are linked, when possible.
-
-Refer [here](https://eecs.berkeley.edu/academics/courses) for a complete listing of courses. Furthermore, [tbp.berkeley.edu](https://tbp.berkeley.edu/courses/) and [hkn.eecs.berkeley.edu](https://hkn.eecs.berkeley.edu) both feature repositories of past exams for all of these courses, though many of them will post past exams on their websites themselves.
-
-At Berkeley, courses are labelled as either "lower division" or "upper division". Lower division courses typically cover a breadth of topics, whereas upper division courses dive deeper into specific areas.
+- Links are from the most recent semester available (Spring 2019 for most courses, at the time of writing). Many courses have webcasts that are unavailable to non-Berkeley students, but in some cases, previous semesters of courses have video archives that are publicly available on YouTube. These are linked, when possible.
+- Refer [here](https://eecs.berkeley.edu/academics/courses) for a complete listing of courses. Furthermore, [tbp.berkeley.edu](https://tbp.berkeley.edu/courses/) and [hkn.eecs.berkeley.edu](https://hkn.eecs.berkeley.edu) both feature repositories of past exams for all of these courses, though many of them will post past exams on their websites themselves.
+- At Berkeley, courses are labelled as either "lower division" or "upper division". Lower division courses typically cover a breadth of topics, whereas upper division courses dive deeper into specific areas.
+- Feel free to reach out to `suraj.rampure@berkeley.edu` with any concerns (broken link, want another course listed, etc.)
 
 <br> 
 
@@ -16,7 +15,7 @@ At Berkeley, to declare the Computer Science major, students need to take three 
 
 | Course | Title | Pre-Requisites | Resources Available | Notes |
 | --- | --- | --- | --- | --- |
-| [CS 61A](http://cs61a.org) | Structure and Interpretation of Computer Programs | N/A | slides, readings, assignments, [Fall 2018 lecture videos](https://www.youtube.com/watch?v=pIbldGLvZi8&list=PL6BsET-8jgYWAxSjQsIHKdks2Jl1TD1W0) | called one of the Five Best CS Classes in the US by [Bloomberg](https://www.bloomberg.com/news/articles/2015-06-11/five-of-the-best-computer-science-classes-in-the-country) |
+| [CS 61A](http://cs61a.org) | Structure and Interpretation of Computer Programs | N/A | slides, readings, assignments, [Fall 2018 lecture videos](https://www.youtube.com/watch?v=pIbldGLvZi8&list=PL6BsET-8jgYWAxSjQsIHKdks2Jl1TD1W0), [virtual textbook](http://composingprograms.com/pages/11-getting-started.html) | called one of the Five Best CS Classes in the US by [Bloomberg](https://www.bloomberg.com/news/articles/2015-06-11/five-of-the-best-computer-science-classes-in-the-country) |
 | [CS 61B](http://datastructur.es) | Data Structures | CS 61A (or similar) | slides, readings, assignments, lecture videos (public) | | 
 | [CS 70](http://eecs70.org) | Discrete Mathematics and Probability Theory | sophomore mathematical maturity | slides, readings, assignments |
 
@@ -24,7 +23,7 @@ We also have several other lower-division courses, covering a wide variety of to
 
 | Course | Title | Pre-Requisites | Resources Available | Notes |
 | --- | --- | --- | --- | --- |
-| [Data 8](http://data8.org) | The Foundations of Data Science | N/A | slides, readings, assignments ([virtual textbook](https://www.inferentialthinking.com/chapters/intro.html)) | often used to prepare for CS 61A; required for the new Data Science major; [WSJ article](https://www.wsj.com/articles/at-berkeley-its-big-data-on-campus-1541066401) |
+| [Data 8](http://data8.org) | The Foundations of Data Science | N/A | slides, readings, assignments, [virtual textbook](https://www.inferentialthinking.com/chapters/intro.html) | often used to prepare for CS 61A; required for the new Data Science major; [WSJ article](https://www.wsj.com/articles/at-berkeley-its-big-data-on-campus-1541066401) |
 | [CS 10](https://cs10.org/sp19/) | The Beauty and Joy of Computing | N/A | slides, readings, assignments | often used to prepare for CS 61A |
 | [CS 61C](https://cs61c.org)* | Great Ideas in Computer Architecture (Machine Structures) | CS 61A, CS 61B | slides, readings, some assignments | some assignments are on edX |
 | [EE 16A](http://ee16a.com)* | Designing Information Systems and Devices I | N/A | slides, readings, assignments | 2/3 linear algebra, 1/3 circuits |
@@ -36,6 +35,11 @@ We also have several other lower-division courses, covering a wide variety of to
 
 | Course | Title | Pre-Requisites | Resources Available | Notes |
 | --- | --- | --- | --- | --- |
-| [Data 100](http://ds100.org/sp19) | Principles and Techniques of Data Science | Data 8, CS 61A (or equivalent programming knowledge), EE 16A (or equivalent linear algebra knowledge) | slides, readings, assignments* ([virtual textbook](https://www.textbook.ds100.org)) | assignments are released to students via a Berkeley-only server, but are posted [here](https://github.com/DS-100/sp19/) once they are due |
+| [Data 100](http://ds100.org/sp19) | Principles and Techniques of Data Science | Data 8, CS 61A (or equivalent programming knowledge), EE 16A (or equivalent linear algebra knowledge) | slides, readings, assignments*, [virtual textbook](https://www.textbook.ds100.org) | assignments are released to students via a Berkeley-only server, but are posted [here](https://github.com/DS-100/sp19/) once they are due |
 | [EECS 126](https://inst.eecs.berkeley.edu/~ee126/sp19/) | Probability and Random Processes | CS 70 (or equivalent probability knowledge), basic linear algebra knowledge | slides, readings, assignments |  |
-| [Prob 140](http://prob140.org) | Probability for Data Science | multivariate calculus, linear algebra, Data 8 | slides, readings ([virtual textbook](http://prob140.org/textbook/chapters/README)) | not an EECS course, but satisfies part of the Data Science requirement, and is taken by many EECS students in lieu of EECS 126 |
+| [Prob 140](http://prob140.org) | Probability for Data Science | multivariate calculus, linear algebra, Data 8 | slides, readings, [virtual textbook](http://prob140.org/textbook/chapters/README) | not an EECS course, but satisfies part of the Data Science requirement, and is taken by many EECS students in lieu of EECS 126 |
+| [CS 168](http://cs168.io/index.html) | Internet Architecture and Protocols | CS 61A, CS 61B, linear algebra or multivariable calculus | slides, readings |
+| [CS 170](https://cs170.org/materials/) | Efficient Algorithms and Intractable Problems | CS 61B, CS 70 | slides, readings, assignments | |
+| [CS 186](https://www.cs186berkeley.net/calendar) | Database Systems | CS 61B, CS 61C | slides, readings, assignments, [videos](https://www.youtube.com/watch?v=y5IShB9ihds&list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1) | slides are available at the [Fall 17](https://sites.google.com/site/cs186fall17/home/schedule-and-notes) site |
+| [CS 188](https://inst.eecs.berkeley.edu/~cs188/sp19/) | Artificial Intelligence | CS 61A or CS 61B, CS 70 | slides, readings, assignments*, [videos](https://www.youtube.com/watch?v=16Dir4QqCUg&list=PL7k0r4t5c108AZRwfW-FhnkZ0sCKBChLH) | only some assignments are publicly available; videos are an unofficial link; [this](http://ai.berkeley.edu/course_schedule.html) site also contains some resourecs |
+| [CS 189]()
