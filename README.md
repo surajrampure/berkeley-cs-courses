@@ -4,11 +4,13 @@ This page features links to several Berkeley EECS course webpages with **publicl
 
 Links are from the most recent semester available (Spring 2019 for most courses, at the time of writing). Many courses have webcasts that are unavailable to non-Berkeley students, but in some cases, previous semesters of courses have video archives that are publicly available on YouTube. These are linked, when possible.
 
-Refer [here](https://eecs.berkeley.edu/academics/courses) for a complete listing of courses. 
+Refer [here](https://eecs.berkeley.edu/academics/courses) for a complete listing of courses. Furthermore, [tbp.berkeley.edu](https://tbp.berkeley.edu/courses/) and [hkn.eecs.berkeley.edu](https://hkn.eecs.berkeley.edu) both feature repositories of past exams for all of these courses, though many of them will post past exams on their websites themselves.
 
-At Berkeley, courses are labelled as either "lower division" or "upper division". Lower division courses typically cover a breadth of 
+At Berkeley, courses are labelled as either "lower division" or "upper division". Lower division courses typically cover a breadth of topics, whereas upper division courses dive deeper into specific areas.
 
-### Lower Division
+<br> 
+
+## Lower Division
 
 At Berkeley, to declare the Computer Science major, students need to take three core courses to declare the major – CS 61A, CS 61B, and CS 70. These courses are also required for all EECS majors.
 
@@ -22,7 +24,7 @@ We also have several other lower-division courses, covering a wide variety of to
 
 | Course | Title | Pre-Requisites | Resources Available | Notes |
 | --- | --- | --- | --- | --- |
-| [Data 8](http://data8.org) | The Foundations of Data Science | N/A | slides, readings, assignments | often used to prepare for CS 61A; required for the new Data Science major; [WSJ article](https://www.wsj.com/articles/at-berkeley-its-big-data-on-campus-1541066401) |
+| [Data 8](http://data8.org) | The Foundations of Data Science | N/A | slides, readings, assignments ([virtual textbook](https://www.inferentialthinking.com/chapters/intro.html)) | often used to prepare for CS 61A; required for the new Data Science major; [WSJ article](https://www.wsj.com/articles/at-berkeley-its-big-data-on-campus-1541066401) |
 | [CS 10](https://cs10.org/sp19/) | The Beauty and Joy of Computing | N/A | slides, readings, assignments | often used to prepare for CS 61A |
 | [CS 61C](https://cs61c.org)* | Great Ideas in Computer Architecture (Machine Structures) | CS 61A, CS 61B | slides, readings, some assignments | some assignments are on edX |
 | [EE 16A](http://ee16a.com)* | Designing Information Systems and Devices I | N/A | slides, readings, assignments | 2/3 linear algebra, 1/3 circuits |
@@ -30,5 +32,10 @@ We also have several other lower-division courses, covering a wide variety of to
 
 <br>
 
-### Upper Division
+## Upper Division
 
+| Course | Title | Pre-Requisites | Resources Available | Notes |
+| --- | --- | --- | --- | --- |
+| [Data 100](http://ds100.org/sp19) | Principles and Techniques of Data Science | Data 8, CS 61A (or equivalent programming knowledge), EE 16A (or equivalent linear algebra knowledge) | slides, readings, assignments* ([virtual textbook](https://www.textbook.ds100.org)) | assignments are released to students via a Berkeley-only server, but are posted [here](https://github.com/DS-100/sp19/) once they are due |
+| [EECS 126](https://inst.eecs.berkeley.edu/~ee126/sp19/) | Probability and Random Processes | CS 70 (or equivalent probability knowledge), basic linear algebra knowledge | slides, readings, assignments |  |
+| [Prob 140](http://prob140.org) | Probability for Data Science | multivariate calculus, linear algebra, Data 8 | slides, readings ([virtual textbook](http://prob140.org/textbook/chapters/README)) | not an EECS course, but satisfies part of the Data Science requirement, and is taken by many EECS students in lieu of EECS 126 |
