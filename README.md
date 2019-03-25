@@ -51,7 +51,7 @@ Most of these courses are undergraduate. Graduate courses are numbered CS 2xx (s
 | [CS 162](https://cs162.eecs.berkeley.edu) | Operating Systems and Systems Programming | CS 61A, CS 61B, CS 61C, CS 70 | slides, readings, assignments | |
 | [CS 164](http://www-inst.eecs.berkeley.edu/~cs164/sp19/) | Programming Languages | CS 61B, CS 61C | slides, readings, assignments | |
 | [CS 168](http://cs168.io/index.html) | Internet Architecture and Protocols | CS 61A, CS 61B, linear algebra or multivariable calculus | slides, readings |
-| [CS 169](https://bcourses.berkeley.edu/courses/1477171) | Software Engineering | N/A | slides, readings, assignments | CS 61B, CS 61C, CS 70 | 
+| [CS 169](https://bcourses.berkeley.edu/courses/1477171) | Software Engineering | CS 61B, CS 61C, CS 70 | slides, readings, assignments |  | 
 | [CS 170](https://cs170.org/materials/) | Efficient Algorithms and Intractable Problems | CS 61B, CS 70 | slides, readings, assignments | |
 | [CS 182/282A](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019) | Designing, Visualizing and Understanding Deep Neural Networks | multivariable calculus, linear algebra, probability, machine learning, and programming (i.e Math 53, Math 54/EE 16A, CS 70, CS 189, CS 61B) | slides, readings, assignments | |
 | [CS 184/284A](https://cs184.eecs.berkeley.edu/sp19) | Computer Graphics and Imaging | CS 61B (or equivalent data structures knowledge), C/C++ programming ability | slides, readings, assignments* | not all assignments are publicly available |
