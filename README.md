@@ -14,7 +14,7 @@ At Berkeley, to declare the Computer Science major, students need to take three 
 
 | Course | Title | Pre-Requisites | Resources Available | Notes |
 | --- | --- | --- | --- | --- |
-| [CS 61A](http://cs61a.org) | Structure and Interpretation of Computer Programs | N/A | slides, readings, assignments, [Fall 2018 lecture videos](https://www.youtube.com/watch?v=pIbldGLvZi8&list=PL6BsET-8jgYWAxSjQsIHKdks2Jl1TD1W0) | |
+| [CS 61A](http://cs61a.org) | Structure and Interpretation of Computer Programs | N/A | slides, readings, assignments, [Fall 2018 lecture videos](https://www.youtube.com/watch?v=pIbldGLvZi8&list=PL6BsET-8jgYWAxSjQsIHKdks2Jl1TD1W0) | called one of the Five Best CS Classes in the US by [Bloomberg](https://www.bloomberg.com/news/articles/2015-06-11/five-of-the-best-computer-science-classes-in-the-country) |
 | [CS 61B](http://datastructur.es) | Data Structures | CS 61A (or similar) | slides, readings, assignments, lecture videos (public) | | 
 | [CS 70](http://eecs70.org) | Discrete Mathematics and Probability Theory | sophomore mathematical maturity | slides, readings, assignments |
 
@@ -22,7 +22,7 @@ We also have several other lower-division courses, covering a wide variety of to
 
 | Course | Title | Pre-Requisites | Resources Available | Notes |
 | --- | --- | --- | --- | --- |
-| [Data 8](http://data8.org) | The Foundations of Data Science | N/A | slides, readings, assignments | often used to prepare for CS 61A; required for the new Data Science major |
+| [Data 8](http://data8.org) | The Foundations of Data Science | N/A | slides, readings, assignments | often used to prepare for CS 61A; required for the new Data Science major; [WSJ article](https://www.wsj.com/articles/at-berkeley-its-big-data-on-campus-1541066401) |
 | [CS 10](https://cs10.org/sp19/) | The Beauty and Joy of Computing | N/A | slides, readings, assignments | often used to prepare for CS 61A |
 | [CS 61C](https://cs61c.org)* | Great Ideas in Computer Architecture (Machine Structures) | CS 61A, CS 61B | slides, readings, some assignments | some assignments are on edX |
 | [EE 16A](http://ee16a.com)* | Designing Information Systems and Devices I | N/A | slides, readings, assignments | 2/3 linear algebra, 1/3 circuits |
