@@ -11,10 +11,13 @@ This page features links to several Berkeley EECS course webpages with **publicl
 <br>
 
 **Determining what classes to take:**
+
 - The [HKN courses guides](https://hkn.eecs.berkeley.edu/courseguides) give suggestions on the order in which to take courses. **In the lower division, typically, students take CS 61A, then CS 61B, then CS 70, then CS 61C** (though sometimes 61B/70 or 70/61C are taken concurrently).
 - For reference: [major requirements](https://eecs.berkeley.edu/resources/undergrads/eecs) and [sample study plans](https://eecs.berkeley.edu/resources/undergrads/eecs/study-plans) for students in CS/EECS 
 
-- Feel free to reach out to `suraj.rampure@berkeley.edu` with any concerns (broken link, want another course listed, etc.)
+<br>
+
+Feel free to reach out to `suraj.rampure@berkeley.edu` with any concerns (broken link, want another course listed, etc.)
 
 <br>
 
