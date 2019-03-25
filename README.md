@@ -3,8 +3,11 @@
 This page features links to several Berkeley EECS course webpages with **publicly available resources** (lectures, homeworks, projects, etc.), with the purpose of consolidating resources for non-Berkeley students (or non-EECS Berkeley students) to visit. 
 
 - Links are from the most recent semester available (Spring 2019 for most courses, at the time of writing). Many courses have webcasts that are unavailable to non-Berkeley students, but in some cases, previous semesters of courses have video archives that are publicly available on YouTube. These are linked, when possible.
-- Refer [here](https://eecs.berkeley.edu/academics/courses) for a complete listing of courses. Furthermore, [tbp.berkeley.edu](https://tbp.berkeley.edu/courses/) and [hkn.eecs.berkeley.edu](https://hkn.eecs.berkeley.edu) both feature repositories of past exams for all of these courses, though many of them will post past exams on their websites themselves.
+- Refer [here](https://www2.eecs.berkeley.edu/Scheduling/CS/schedule.html) for a complete listing of courses. The [EECS instructional homepage] essentially does the same thing as this site, but is significantly more clunky. 
+- Furthermore, [tbp.berkeley.edu](https://tbp.berkeley.edu/courses/) and [hkn.eecs.berkeley.edu](https://hkn.eecs.berkeley.edu) both feature repositories of past exams for all of these courses, though many of them will post past exams on their websites themselves.
 - At Berkeley, courses are labelled as either "lower division" or "upper division". Lower division courses typically cover a breadth of topics, whereas upper division courses dive deeper into specific areas.
+- Berkeley is also unique in that undergraduates have the ability to start their own for-credit courses on any topic they choose. There are many such courses (called DeCals) under the Computer Science department that teach many different applied topics. These are listed at the bottom of the page.
+- For reference: [major requirements](https://eecs.berkeley.edu/resources/undergrads/eecs) and [sample study plans](https://eecs.berkeley.edu/resources/undergrads/eecs/study-plans) for students in CS/EECS
 - Feel free to reach out to `suraj.rampure@berkeley.edu` with any concerns (broken link, want another course listed, etc.)
 
 <br> 
@@ -31,7 +34,9 @@ We also have several other lower-division courses, covering a wide variety of to
 
 <br>
 
-## Upper Division
+## Upper Division and Graduate
+
+Most of these courses are undergraduate. Graduate courses are numbered CS 2xx (some courses are cross-listed as both).
 
 | Course | Title | Pre-Requisites | Resources Available | Notes |
 | --- | --- | --- | --- | --- |
@@ -40,6 +45,17 @@ We also have several other lower-division courses, covering a wide variety of to
 | [Prob 140](http://prob140.org) | Probability for Data Science | multivariate calculus, linear algebra, Data 8 | slides, readings, [virtual textbook](http://prob140.org/textbook/chapters/README) | not an EECS course, but satisfies part of the Data Science requirement, and is taken by many EECS students in lieu of EECS 126 |
 | [CS 168](http://cs168.io/index.html) | Internet Architecture and Protocols | CS 61A, CS 61B, linear algebra or multivariable calculus | slides, readings |
 | [CS 170](https://cs170.org/materials/) | Efficient Algorithms and Intractable Problems | CS 61B, CS 70 | slides, readings, assignments | |
+| [CS 184/284A](https://cs184.eecs.berkeley.edu/sp19) | Computer Graphics and Imaging | CS 61B (or equivalent data structures knowledge), C/C++ programming ability | slides, readings, assignments* | not all assignments are publicly available |
 | [CS 186](https://www.cs186berkeley.net/calendar) | Database Systems | CS 61B, CS 61C | slides, readings, assignments, [videos](https://www.youtube.com/watch?v=y5IShB9ihds&list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1) | slides are available at the [Fall 17](https://sites.google.com/site/cs186fall17/home/schedule-and-notes) site |
 | [CS 188](https://inst.eecs.berkeley.edu/~cs188/sp19/) | Artificial Intelligence | CS 61A or CS 61B, CS 70 | slides, readings, assignments*, [videos](https://www.youtube.com/watch?v=16Dir4QqCUg&list=PL7k0r4t5c108AZRwfW-FhnkZ0sCKBChLH) | only some assignments are publicly available; videos are an unofficial link; [this](http://ai.berkeley.edu/course_schedule.html) site also contains some resourecs |
-| [CS 189]()
+| [CS 189/289A](https://people.eecs.berkeley.edu/~jrs/189/) | Machine Learning | multivariable calculus, linear algebra, and probability ([this](http://gwthomas.github.io/docs/math4ml.pdf) doc written by a TA covers most of the pre-reqs) | slides, readings, assignments* | only some assignments are available in the current link |
+| [CS 294-112](http://rail.eecs.berkeley.edu/deeprlcourse/) | Deep Reinforcement Learning | CS 189 (or equivalent ML course) | slides, readings, assignments | |
+
+<br>
+
+## DeCals
+
+| Course | Title | Pre-Requisites | Resources Available | Notes |
+| --- | --- | --- | --- | --- |
+
+
