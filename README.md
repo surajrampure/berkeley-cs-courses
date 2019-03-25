@@ -3,16 +3,18 @@
 This page features links to several Berkeley EECS course webpages with **publicly available resources** (lectures, homeworks, projects, etc.), with the purpose of consolidating resources for non-Berkeley students (or non-EECS Berkeley students) to visit. 
 
 - Links are from the most recent semester available (Spring 2019 for most courses, at the time of writing). Many courses have webcasts that are unavailable to non-Berkeley students, but in some cases, previous semesters of courses have video archives that are publicly available on YouTube. These are linked, when possible.
-- Refer [here](https://www2.eecs.berkeley.edu/Scheduling/CS/schedule.html) for a complete listing of courses. The [EECS instructional homepage](https://inst.eecs.berkeley.edu/classes-eecs.html) essentially does the same thing as this site, but is significantly more clunky. 
 - Furthermore, [tbp.berkeley.edu](https://tbp.berkeley.edu/courses/) and [hkn.eecs.berkeley.edu](https://hkn.eecs.berkeley.edu) both feature repositories of past exams for all of these courses, though many of them will post past exams on their websites themselves.
 - At Berkeley, courses are labelled as either "lower division" or "upper division". Lower division courses typically cover a breadth of topics, whereas upper division courses dive deeper into specific areas.
-- Berkeley is also unique in that undergraduates have the ability to start their own for-credit courses on any topic they choose. There are many such courses (called DeCals) under the Computer Science department that teach many different applied topics. These are listed at the bottom of the page.
-- For reference: [major requirements](https://eecs.berkeley.edu/resources/undergrads/eecs) and [sample study plans](https://eecs.berkeley.edu/resources/undergrads/eecs/study-plans) for students in CS/EECS
+- Berkeley is also unique in that undergraduates have the ability to start their own for-credit courses on any topic they choose. There are many such courses (called DeCals) under the Computer Science department that teach many different applied topics (e.g. Virtual Reality, Web Development). These are listed at the bottom of the page.
+- Refer [here](https://www2.eecs.berkeley.edu/Scheduling/CS/schedule.html) for a complete listing of courses. The [EECS instructional homepage](https://inst.eecs.berkeley.edu/classes-eecs.html) essentially does the same thing as this site, but is significantly more clunky. 
+
+<br>
+
+**Determining what classes to take:**
+- The [HKN courses guides](https://hkn.eecs.berkeley.edu/courseguides) give suggestions on the order in which to take courses. **In the lower division, typically, students take CS 61A, then CS 61B, then CS 70, then CS 61C** (though sometimes 61B/70 or 70/61C are taken concurrently).
+- For reference: [major requirements](https://eecs.berkeley.edu/resources/undergrads/eecs) and [sample study plans](https://eecs.berkeley.edu/resources/undergrads/eecs/study-plans) for students in CS/EECS 
+
 - Feel free to reach out to `suraj.rampure@berkeley.edu` with any concerns (broken link, want another course listed, etc.)
-
-<br> 
-
-**Coming soon**: Suggested course pathways and clusters, course descriptions and reviews
 
 <br>
 
