@@ -69,7 +69,7 @@ Most of these courses are undergraduate. Graduate courses are numbered CS 2xx (s
 
 ## DeCals
 
-Berkeley's computer science curriculum provides a solid theoretical foundation for its students, and student-run courses through the [DeCal](https://decal.berkeley.edu/)(Democratizing Education at CAL) program allow students to build their practical skills in areas like web and mobile development and also can help prepare students for more advanced and mathematically abstract classes in a low-stress environment.
+Berkeley's computer science curriculum provides a solid theoretical foundation for its students, and student-run courses through the [DeCal](https://decal.berkeley.edu/) (Democratizing Education at CAL) program allow students to build their practical skills in areas like web and mobile development and also can help prepare students for more advanced and mathematically abstract classes in a low-stress environment.
 
 | Course | Pre-Requisites | Resources Available | Notes |
 | --- | --- | --- | --- |
