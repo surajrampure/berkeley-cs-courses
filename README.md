@@ -62,12 +62,15 @@ Most of these courses are undergraduate. Graduate courses are numbered CS 2xx (s
 | [CS 184/284A](https://cs184.eecs.berkeley.edu/sp19) | Computer Graphics and Imaging | CS 61B (or equivalent data structures knowledge), C/C++ programming ability | slides, readings, assignments* | not all assignments are publicly available |
 | [CS 186](https://www.cs186berkeley.net/calendar) | Database Systems | CS 61B, CS 61C | slides, readings, assignments, [videos](https://www.youtube.com/watch?v=y5IShB9ihds&list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1) | slides are available at the [Fall 17](https://sites.google.com/site/cs186fall17/home/schedule-and-notes) site |
 | [CS 188](https://inst.eecs.berkeley.edu/~cs188/sp19/) | Artificial Intelligence | CS 61A or CS 61B, CS 70 | slides, readings, assignments, videos | the [Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/) site contains public lecture videos |
-| [CS 189/289A](https://people.eecs.berkeley.edu/~jrs/189/) | Machine Learning | multivariable calculus, linear algebra, and probability ([this](http://gwthomas.github.io/docs/math4ml.pdf) doc written by a TA covers most of the pre-reqs) | slides, readings, assignments* | only some assignments are available in the current link |
+| [CS 189/289A](https://people.eecs.berkeley.edu/~jrs/189/) | Machine Learning | multivariable calculus (Math 53), linear algebra(Math 54 or EE16A and EE16B), and probability (EECS126, Stat 134, or Stat 140) ([this](http://gwthomas.github.io/docs/math4ml.pdf) doc written by a TA covers most of the pre-reqs). Optimization (EECS127) is very helpful coming in as well. | slides, readings, assignments* | Written assignments and lecture notes are available at the current link |
+>>>>>>> 60e4f389d3e633faef237f97748ac99df76c17cb
 | [CS 294-112](http://rail.eecs.berkeley.edu/deeprlcourse/) | Deep Reinforcement Learning | CS 189 (or equivalent ML course) | slides, readings, assignments | |
 
 <br>
 
 ## DeCals
+
+Berkeley's computer science curriculum provides a solid theoretical foundation for its students, and student-run courses through the [DeCal](https://decal.berkeley.edu/) (Democratizing Education at CAL) program allow students to build their practical skills in areas like web and mobile development and also can help prepare students for more advanced and mathematically abstract classes in a low-stress environment.
 
 | Course | Pre-Requisites | Resources Available | Notes |
 | --- | --- | --- | --- |
