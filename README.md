@@ -36,7 +36,7 @@ We also have several other lower-division courses, covering a wide variety of to
 | Course | Title | Pre-Requisites | Resources Available | Notes |
 | --- | --- | --- | --- | --- |
 | [Data 8](http://data8.org) | The Foundations of Data Science | N/A | slides, readings, assignments, [virtual textbook](https://www.inferentialthinking.com/chapters/intro.html) | often used to prepare for CS 61A; required for the new Data Science major; [WSJ article](https://www.wsj.com/articles/at-berkeley-its-big-data-on-campus-1541066401) |
-| [CS 10](https://cs10.org/sp19/) | The Beauty and Joy of Computing | N/A | slides, readings, assignments | often used to prepare for CS 61A |
+| [CS 10](https://cs10.org/) | The Beauty and Joy of Computing | N/A | slides, readings, assignments | often used to prepare for CS 61A |
 | [CS 61C](https://cs61c.org)* | Great Ideas in Computer Architecture (Machine Structures) | CS 61A, CS 61B | slides, readings, some assignments | some assignments are on edX |
 | [EE 16A](http://ee16a.com)* | Designing Information Systems and Devices I | N/A | slides, readings, assignments | 2/3 linear algebra, 1/3 circuits |
 | [EE 16B](http://ee16b.org)* | Designing Information Systems and Devices II | EE 16A, or another linear algebra course | slides, readings, assignments | linear algebra, and control theory |
@@ -61,7 +61,7 @@ Most of these courses are undergraduate. Graduate courses are numbered CS 2xx (s
 | [CS 182/282A](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019) | Designing, Visualizing and Understanding Deep Neural Networks | multivariable calculus, linear algebra, probability, machine learning, and programming (i.e Math 53, Math 54/EE 16A, CS 70, CS 189, CS 61B) | slides, readings, assignments | |
 | [CS 184/284A](https://cs184.eecs.berkeley.edu/sp19) | Computer Graphics and Imaging | CS 61B (or equivalent data structures knowledge), C/C++ programming ability | slides, readings, assignments* | not all assignments are publicly available |
 | [CS 186](https://www.cs186berkeley.net/calendar) | Database Systems | CS 61B, CS 61C | slides, readings, assignments, [videos](https://www.youtube.com/watch?v=y5IShB9ihds&list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1) | slides are available at the [Fall 17](https://sites.google.com/site/cs186fall17/home/schedule-and-notes) site |
-| [CS 188](https://inst.eecs.berkeley.edu/~cs188/sp19/) | Artificial Intelligence | CS 61A or CS 61B, CS 70 | slides, readings, assignments*, [videos](https://www.youtube.com/watch?v=16Dir4QqCUg&list=PL7k0r4t5c108AZRwfW-FhnkZ0sCKBChLH) | only some assignments are publicly available; videos are an unofficial link; [this](http://ai.berkeley.edu/course_schedule.html) site also contains some resourecs |
+| [CS 188](https://inst.eecs.berkeley.edu/~cs188/sp19/) | Artificial Intelligence | CS 61A or CS 61B, CS 70 | slides, readings, assignments, videos | the [Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/) site contains public lecture videos |
 | [CS 189/289A](https://people.eecs.berkeley.edu/~jrs/189/) | Machine Learning | multivariable calculus, linear algebra, and probability ([this](http://gwthomas.github.io/docs/math4ml.pdf) doc written by a TA covers most of the pre-reqs) | slides, readings, assignments* | only some assignments are available in the current link |
 | [CS 294-112](http://rail.eecs.berkeley.edu/deeprlcourse/) | Deep Reinforcement Learning | CS 189 (or equivalent ML course) | slides, readings, assignments | |
 
